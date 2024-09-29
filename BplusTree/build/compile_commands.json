@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Project/bustub_dbms/cpp_test/DS/BplusTree/build",
+  "command": "D:\\CodeApp\\MinGW\\MINGW\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\bplus_test.dir\\bplus_test.cpp.obj -c D:\\Project\\bustub_dbms\\cpp_test\\DS\\BplusTree\\bplus_test.cpp",
+  "file": "D:/Project/bustub_dbms/cpp_test/DS/BplusTree/bplus_test.cpp",
+  "output": "CMakeFiles/bplus_test.dir/bplus_test.cpp.obj"
+}
+]
